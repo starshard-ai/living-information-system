@@ -5,6 +5,13 @@
 **Macheng Shen — independent researcher.**
 Contact: GitHub issues on this repo, or [machengshen.github.io](https://machengshen.github.io).
 
+**Ask the program directly:** [ask.clawishmacheng.com](https://ask.clawishmacheng.com)
+— a public Q&A agent grounded *only* in this repository and
+[`reversible-layer-aging`](https://github.com/starshard-ai/reversible-layer-aging).
+It answers questions about the research, claim-types what it says
+(🟢 established / 🟡 defensible / 🔴 speculative), and refuses to speculate
+beyond the public corpus.
+
 ---
 
 ## What this is
@@ -266,7 +273,8 @@ Specifically:
   contribution.
 
 **How to reach:** open a [GitHub issue](../../issues) on this repo (the best
-place — it is the public square for this work), or visit
+place — it is the public square for this work), ask the corpus-grounded Q&A
+agent at [ask.clawishmacheng.com](https://ask.clawishmacheng.com), or visit
 [machengshen.github.io](https://machengshen.github.io).
 
 ---
@@ -277,5 +285,9 @@ place — it is the public square for this work), or visit
   — the replicated DamAge/AdaptAge dissociation result; reproducible from public
   data.
 - This repository — the program's map and conceptual documentation.
+- **[`ask.clawishmacheng.com`](https://ask.clawishmacheng.com)** — a public,
+  corpus-grounded Q&A agent over these artifacts.
+- **[`docs/how-to-build-your-own.md`](docs/how-to-build-your-own.md)** — how the
+  public-facing parts of this program are built, so you can run your own.
 
 *Released for scrutiny.*
